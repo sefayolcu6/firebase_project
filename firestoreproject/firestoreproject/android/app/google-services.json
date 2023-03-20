@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "177939459234",
+    "project_id": "firebase-entegrasyonn2",
+    "storage_bucket": "firebase-entegrasyonn2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177939459234:android:4fed013d6d8de8d1f73bfb",
+        "android_client_info": {
+          "package_name": "com.dh.firebase_entegrasyon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177939459234-9csb1ugvlipom7u9kahv1nuiumr4e6sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb6WZFvwCh7gNMsa9hw6ey3bsfmVvtsaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177939459234-9csb1ugvlipom7u9kahv1nuiumr4e6sd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "177939459234-id8j2fkmffsrr83g4rokrriom5dvearj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dh.firebaseEntegrasyon"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177939459234:android:1a30528230add41ff73bfb",
+        "android_client_info": {
+          "package_name": "com.dh.firestoreproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177939459234-9csb1ugvlipom7u9kahv1nuiumr4e6sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb6WZFvwCh7gNMsa9hw6ey3bsfmVvtsaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177939459234-9csb1ugvlipom7u9kahv1nuiumr4e6sd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "177939459234-id8j2fkmffsrr83g4rokrriom5dvearj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dh.firebaseEntegrasyon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
